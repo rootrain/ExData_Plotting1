@@ -1,0 +1,25 @@
+---
+title: "150308_exploratoryDataAnalysis_courseProject1_codebook.Rmd"
+output: html_document
+---
+####project name
+Exploratory data analysis course project1 on 150308
+
+####dataset's name
+Electric power consuption
+(https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip)
+
+####variables in the datasete
+
+1. Date: Date in format dd/mm/yyyy
+2. Time: time in format hh:mm:ss
+3. Global_active_power: household global minuteaveraged active power (in kilowatt)
+4. Global_reactive_power: household global minuteaveraged reactive power (in kilowatt)
+5. Voltage: minuteaveraged voltage (in volt)
+6. Global_intensity: household global minuteaveraged current intensity (in ampere)
+7. Sub_metering_1: energy submetering No. 1 (in watthour of active energy). It corresponds to the kitchen, containing mainly a dishwasher, an oven and a microwave (hot plates are not electric but gas powered).
+8. Sub_metering_2: energy submetering No. 2 (in watthour of active energy). It corresponds to the laundry room, containing a washingmachine, a tumbledrier, a refrigerator and a light.
+9. Sub_metering_3: energy submetering No. 3(in watthour of active energy). It corresponds to an electric waterheater and an airconditioner.
+
+####reference
+course project 1 instruction
